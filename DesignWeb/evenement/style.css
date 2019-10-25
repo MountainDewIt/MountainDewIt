@@ -1,0 +1,42 @@
+.FriesKetchup{
+    background-image: url("img/FriesKetchup.jpg");
+    background-repeat: no-repeat;
+    min-height: 513px;
+    transition: all 0.5s ease;
+}
+.FriesKetchup:hover{
+    transform: scale(1.2);
+}
+.GangBang{
+    background-image: url("img/McGangbang.jpg");
+    background-repeat: no-repeat;
+    height: 739px;
+    width: 519px;
+    transition: all 0.5s ease;
+}
+.GangBang:hover{
+    transform: scale(1.2);
+}
+.ChickenFish{
+    background-image: url("img/81e7f2b95f4cacea97c84b4abfcdded4.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 481px;
+    transition: all 0.5s ease;
+}
+.ChickenFish:hover{
+    transform: scale(1.2);
+}
+.grosseboite1{
+    overflow: hidden;
+    min-height: 513px;
+}
+.grosseboite2{
+    overflow: hidden;
+    min-height: 739px;
+}
+.grosseboite3{
+    overflow: hidden;
+    height: 500px;
+    width: 481px;
+}

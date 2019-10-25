@@ -1,0 +1,44 @@
+html,body { margin:0; height:100%;}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("img/maxresdefault (1).jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Satan {
+    /* L’image du Parallax */
+    background-image: url("img/satan-04.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 500px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    color: white;
+}
+
+.HellsDoors{
+    background-image: url("img/gate-to-hell-s.jpg");
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
