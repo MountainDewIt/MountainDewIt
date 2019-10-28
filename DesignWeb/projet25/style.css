@@ -54,7 +54,7 @@ header .overlay {
 }
 .parallax {
     /* L’image du Parallax */
-    background-image: url("img/Stephen_Curry_dribbling_2016_(cropped).jpg");
+    background-image: url("img/steph-curry-computer-background-256-263-hd-wallpapers.jpg");
 
     /* L’hauteur du Parallax */
     min-height: 500px;
@@ -68,13 +68,52 @@ header .overlay {
 .biggy{
     font-size: 4rem;
 }
+.bgOpaque{
+    background-color: rgba(255,255,0,.75);
+}
+.bgOpaque2Knicks{
+    background-color: #0062cc;
+}
+.bgOpaqueNuggets{
+    background-color: #e0a800;
+}
+.bgOpaqueRapt{
+    background-color: #dc3545;
+}
+.celtics{
+    background-image:url("img/Champs_68_69.jpg");
+    height: 100%;
+}
+.RJ {
+    background-image: url("img/RJBAAAAARRERERERERER.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.JM {
+    background-image: url("img/GettyImages-926938280.jpg");
+    min-height: 900px;
+    background-repeat: no-repeat;
+}
+.CB {
+    background-image: url("img/boucher.jpg");
+    min-height: 1000px;
+    background-repeat: no-repeat;
+}
 @media only screen and (max-width: 480px){
 .biggy{
     font-size: 1.3rem;
 }
+.column{
+    width: 100%;
+}
 }
 /* TABLETTES */
 @media screen and (min-width: 481px) and (max-width: 1199px) {
+.hidden{
+    display: none;
 }
-
+}
+.bgblack{
+    background-color: black;
+}
 

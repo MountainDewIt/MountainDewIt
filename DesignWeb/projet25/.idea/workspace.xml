@@ -35,12 +35,12 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25\img" />
       <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25\vid" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,7 +73,8 @@
       <workItem from="1571416955874" duration="4438000" />
       <workItem from="1571613728086" duration="288000" />
       <workItem from="1571687034989" duration="17000" />
-      <workItem from="1572014074402" duration="3794000" />
+      <workItem from="1572014074402" duration="4051000" />
+      <workItem from="1572113871411" duration="35822000" />
     </task>
     <servers />
   </component>
