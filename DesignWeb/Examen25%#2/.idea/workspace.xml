@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57c8277f-df51-46ff-86c6-72350a1dbed2" name="Default Changelist" comment="" />
+    <list default="true" id="023e8d83-aac3-4b82-a697-13e1e198441a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,30 +17,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-        <option value="début" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1RvAyE2zagF0A0u5ghfnozf3qGg" />
+  <component name="ProjectId" id="1TnvRoEGiJR7ksNvKOUBcj1HceF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25\img" />
-      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25\vid" />
+      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\Examen25%#2\img" />
+      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\Examen25%#2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\projet25" />
+      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\Examen25%#2\img" />
+      <recent name="C:\Users\18198\Documents\GitHub\MountainDewIt\DesignWeb\Examen25%#2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,26 +58,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57c8277f-df51-46ff-86c6-72350a1dbed2" name="Default Changelist" comment="" />
-      <created>1570537447681</created>
+      <changelist id="023e8d83-aac3-4b82-a697-13e1e198441a" name="Default Changelist" comment="" />
+      <created>1574108668775</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570537447681</updated>
-      <workItem from="1570537448832" duration="166000" />
-      <workItem from="1570537637120" duration="5839000" />
-      <workItem from="1570717358303" duration="6175000" />
-      <workItem from="1571249782448" duration="3671000" />
-      <workItem from="1571332074778" duration="4437000" />
-      <workItem from="1571416955874" duration="4438000" />
-      <workItem from="1571613728086" duration="288000" />
-      <workItem from="1571687034989" duration="17000" />
-      <workItem from="1572014074402" duration="4051000" />
-      <workItem from="1572113871411" duration="36296000" />
-      <workItem from="1572286338207" duration="12000" />
-      <workItem from="1573140495985" duration="980000" />
-      <workItem from="1574447268674" duration="709000" />
-      <workItem from="1574453087231" duration="60000" />
-      <workItem from="1574453626367" duration="9000" />
+      <updated>1574108668775</updated>
+      <workItem from="1574108669994" duration="1971000" />
+      <workItem from="1574170333182" duration="3752000" />
+      <workItem from="1574189255555" duration="611000" />
+      <workItem from="1574280473560" duration="4737000" />
+      <workItem from="1574349383301" duration="6278000" />
+      <workItem from="1574446100444" duration="6793000" />
+      <workItem from="1574453637067" duration="286000" />
+      <workItem from="1574533656357" duration="2341000" />
+      <workItem from="1574556779829" duration="3774000" />
+      <workItem from="1574625043984" duration="11557000" />
     </task>
     <servers />
   </component>

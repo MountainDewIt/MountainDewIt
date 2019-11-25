@@ -1,0 +1,76 @@
+$('#yoyodada').hide();
+$('#spiderman').hide();
+$('#batman').hide();
+$('.radio1').hide();
+$('.radio2').hide();
+$('.radio3').hide();
+
+$('#SW').click(function(){
+    $('#yoyodada').show();
+    $('#spiderman').hide();
+    $('#batman').hide();
+    $('.radio1').show();
+    $('.radio2').hide();
+    $('.radio3').hide();
+});
+$('#MV').click(function(){
+    $('#yoyodada').hide();
+    $('#spiderman').show();
+    $('#batman').hide();
+    $('.radio1').hide();
+    $('.radio2').show();
+    $('.radio3').hide();
+});
+$('#DC').click(function(){
+    $('#yoyodada').hide();
+    $('#spiderman').hide();
+    $('#batman').show();
+    $('.radio1').hide();
+    $('.radio2').hide();
+    $('.radio3').show();
+});
+$('#DontLikesand').click(function(){
+    $('#yoyodada').attr("src","img/Drake dont like sand.jpg");
+});
+$('#YourFather').click(function(){
+    $('#yoyodada').attr("src","img/Dark_Helmet_with_Sword.png");
+});
+$('#YeetThatShit').click(function(){
+    $('#yoyodada').attr("src","img/Wilsoneye.png");
+});
+$('#HighGround').click(function(){
+    $('#yoyodada').attr("src","img/ConorMcgruder driving.jpg");
+});
+$('#Hologram').click(function(){
+    $('#yoyodada').attr("src","img/star-wars-tupac-hologram.jpg");
+});
+$('#TonyOfTheNorth').click(function(){
+    $('#spiderman').attr("src","");
+});
+$('#Shrek').click(function(){
+    $('#spiderman').attr("src","");
+});
+$('#NoOneCaresAboutHim').click(function(){
+    $('#spiderman').attr("src","");
+});
+$('#FuckYeah').click(function(){
+    $('#spiderman').attr("src","");
+});
+$('#Eminem').click(function(){
+    $('#spiderman').attr("src","");
+});
+$('#BestVillainEver').click(function(){
+    $('#batman').attr("src","");
+});
+$('#SuperKitchen').click(function(){
+    $('#batman').attr("src","");
+});
+$('#WeNeedAnti-Cheat').click(function(){
+    $('#batman').attr("src","");
+});
+$('#HumanSonic').click(function(){
+    $('#batman').attr("src","");
+});
+$('#StevenAdams').click(function(){
+    $('#batman').attr("src","");
+});

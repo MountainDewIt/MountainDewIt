@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cassetete.iml" filepath="$PROJECT_DIR$/.idea/cassetete.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Casse-Tete/Casse-Tete/Bootstrap/css/.idea/css.iml" filepath="$USER_HOME$/Desktop/Casse-Tete/Casse-Tete/Bootstrap/css/.idea/css.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Casse-Tete/Casse-Tete/images/.idea/images.iml" filepath="$USER_HOME$/Desktop/Casse-Tete/Casse-Tete/images/.idea/images.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Casse-Tete/Casse-Tete/Bootstrap/js/.idea/js.iml" filepath="$USER_HOME$/Desktop/Casse-Tete/Casse-Tete/Bootstrap/js/.idea/js.iml" />
+    </modules>
+  </component>
+</project>
